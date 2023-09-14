@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **the next thing**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **it**
 
-- 📫 How to reach me **nweissm@stanford.edu**
+- 📫 How to reach me **nweissm@alumni.stanford.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
