@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/nikweissmueller" target="blank"><img src="https://img.shields.io/twitter/follow/nikweissmueller?logo=twitter&style=for-the-badge" alt="nikweissmueller" /></a> </p>
 
-- 🔭 I’m currently working on **making published clinical data more accessible** <p align="left"> <a href="https://twitter.com/nikweissmueller" target="blank"><img src="https://img.shields.io/twitter/follow/nikweissmueller?logo=twitter&style=for-the-badge" alt="nikweissmueller" /></a> </p>
+- 🔭 I’m currently working on **making published clinical data more accessible: https://clinicaltrials-gov.streamlit.app/**
 
 - 💬 Ask me about **it**
 
