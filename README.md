@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nikweissmueller" target="blank"><img src="https://img.shields.io/twitter/follow/nikweissmueller?logo=twitter&style=for-the-badge" alt="nikweissmueller" /></a> </p>
 
-- 🔭 I’m currently working on **[https://clinicaltrials-gov.streamlit.app/](https://clinicaltrials-gov.onrender.com/)**
+- 🔭 I’m currently working on a **[ClinicalTrials.gov API interface](https://clinicaltrials-gov.onrender.com/)**
 
 - 💬 Ask me about **it**
 
